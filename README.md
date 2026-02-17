@@ -43,6 +43,11 @@ Se desarrollaron los siguientes conceptos:
 - Modificadores de acceso (public, private, protected, default).
 - Variables de entorno.
 
+Los documentos detallados se encuentran en los archivos:
+
+- [`git.md`](https://github.com/JeanRojas17/Practica-GIT/blob/main/git.md)
+- [`programacion.md`](https://github.com/JeanRojas17/Practica-GIT/blob/main/programacion.md)
+
 ### **- Calculadora básica**
 Permite realizar operaciones de suma, resta, multiplicación y división utilizando estructuras de control.
 
